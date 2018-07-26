@@ -4,7 +4,7 @@ A small and simple Sudoku solver.
 Solves 9x9 sudokus. 
 
 ## Output:
-Outputs though Console.
+Outputs through Console.
 Shows solved and unsolved sudoku side-by-side.
 
 ## Use:
